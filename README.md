@@ -9,7 +9,7 @@ Some of the topics covered were:
 - writing unit tests for JavaScript functions.
 - the _Test Driven Development (TDD)_ workflow.
 
-## Instructions
+## Instructions.
 
 **Read these requirements carefully. Understand exactly what is expected _before_ starting.**
 
